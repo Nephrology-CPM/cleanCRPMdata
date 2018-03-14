@@ -1,0 +1,7 @@
+name: cleanCRPMdata
+channels: r
+dependencies:
+  - r
+  - r-xlsx
+  - r-testthat
+  - r-devtools
